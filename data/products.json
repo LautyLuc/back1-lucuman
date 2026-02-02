@@ -1,0 +1,74 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Laptop Dell XPS 13",
+      "description": "Ultrabook potente con procesador Intel de última generación, pantalla 4K y batería de larga duración",
+      "code": "DELL-XPS-001",
+      "price": 1299.99,
+      "status": true,
+      "stock": 8,
+      "category": "laptops",
+      "thumbnails": [
+        "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=500",
+        "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=500"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "iPhone 15 Pro",
+      "description": "Smartphone flagship con cámara triple de 48MP, chip A17 Pro y pantalla ProMotion de 120Hz",
+      "code": "IPHONE-15P-001",
+      "price": 999.99,
+      "status": true,
+      "stock": 15,
+      "category": "smartphones",
+      "thumbnails": [
+        "https://images.unsplash.com/photo-1592286927505-1fed4715b521?w=500",
+        "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=500"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "iPad Air",
+      "description": "Tableta de 11 pulgadas con chip M1, compatible con Apple Pencil y Magic Keyboard",
+      "code": "IPAD-AIR-001",
+      "price": 599.99,
+      "status": true,
+      "stock": 12,
+      "category": "tablets",
+      "thumbnails": [
+        "https://images.unsplash.com/photo-1527864550417-7fd91fc51a46?w=500",
+        "https://images.unsplash.com/photo-1561070791-2526d30994b5?w=500"
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Sony WH-1000XM5 Headphones",
+      "description": "Auriculares inalámbricos premium con cancelación de ruido líder en la industria y 30 horas de batería",
+      "code": "SONY-WH-1000-001",
+      "price": 399.99,
+      "status": true,
+      "stock": 20,
+      "category": "audio",
+      "thumbnails": [
+        "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500",
+        "https://images.unsplash.com/photo-1484704849700-f032a568e944?w=500"
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Samsung 4K Monitor 27\"",
+      "description": "Monitor UltraHD con resolución 4K, 60Hz, panel IPS y conectividad Thunderbolt 3",
+      "code": "SAMSUNG-4K-27-001",
+      "price": 699.99,
+      "status": true,
+      "stock": 5,
+      "category": "monitors",
+      "thumbnails": [
+        "https://images.unsplash.com/photo-1527864550417-7fd91fc51a46?w=500",
+        "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?w=500"
+      ]
+    }
+  ]
+}
